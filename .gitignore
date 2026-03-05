@@ -1,0 +1,13 @@
+__pycache__/
+.env
+.venv
+
+# Local environment variables
+.env.local
+.env.*.local
+
+# macOS
+.DS_Store
+
+# logs
+*.log
