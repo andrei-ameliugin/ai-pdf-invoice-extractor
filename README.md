@@ -154,7 +154,7 @@ The PDF endpoint reuses the same extraction logic as `/extract` - no duplicated 
 ## Project Structure
 
 ```
-ai-doc-extractor/
+ai-pdf-invoice-extractor/
 ├── main.py            # FastAPI app, endpoints, exception handlers
 ├── extractor.py       # OpenAI API integration and field extraction
 ├── pdf_utils.py       # PDF text extraction with pdfplumber
